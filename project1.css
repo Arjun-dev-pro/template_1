@@ -1,0 +1,36 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.first {
+    background-image: url("bg_pic.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100%;
+}
+
+.custom_nav {
+    border-bottom: 5px solid rgb(93, 24, 172);
+    background-color: rgba(31, 30, 30, 0.9);
+}
+
+.custom_icon {
+    color: blue;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 1.9em;
+}
+
+.custum_form {
+    background: rgba(22, 124, 240, 0.918);
+    color: white;
+}
+
+.circle {
+    border-radius: 100%;
+}
+
+.custom_header {
+    background: rgba(0, 0, 0, 0.3);
+}
